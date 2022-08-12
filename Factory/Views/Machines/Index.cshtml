@@ -5,6 +5,12 @@
 @using Factory.Models;
 <h1>List Of Machines</h1>
 
+<div class = "topnav">
+  <a href = "/">Home</a>
+  <a href = "/Engineers">Engineers</a>
+  <a class = "active" href = "/Machines">Machines</a>
+</div>
+
 @if(Model.Count ==0)
 {
   <h3> No Machines has been Registered</h3>

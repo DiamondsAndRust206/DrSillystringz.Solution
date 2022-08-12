@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+  color:darkgoldenrod;
+  font-family:monospace;
+  font-weight: 525;
+}
+
+.topnav {
+  background: linear-gradient(to right, rgb(227, 100, 100), grey, rgb(227, 100, 100));
+  overflow: hidden;
+  text-align: center;
+  padding: 0px 30px;
+  text-decoration: none;
+  font-size: 30px;
+  color: antiquewhite;
+}
+
+.topnav a.active {
+  background-color: #48a885;
+  color:rgb(189, 250, 230);
+}
+
+.topnav a:hover {
+  background-color: rgb(150, 225, 212);
+  color: rgb(227, 100, 100);
+}
+
+.topnav a {
+  color: antiquewhite;
+}
+
+body {
+  background-image: url("https://scx1.b-cdn.net/csz/news/800a/2018/areorganisms.jpg");
+  background-size: cover;
+  
+}
