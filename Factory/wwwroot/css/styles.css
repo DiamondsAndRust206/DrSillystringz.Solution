@@ -1,6 +1,6 @@
 h1 {
   text-align: center;
-  color:darkgoldenrod;
+  color:rgb(158, 116, 9);
   font-family:monospace;
   font-weight: 525;
 }
@@ -19,12 +19,12 @@ h1 {
 }
 
 .topnav a.active {
-  background-color: #48a885;
+  background-color: #66a78f;
   color:rgb(189, 250, 230);
 }
 
 .topnav a:hover {
-  background-color: rgb(150, 225, 212);
+  background-color: rgb(146, 208, 198);
   color: rgb(227, 100, 100);
 }
 
