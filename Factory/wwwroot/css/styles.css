@@ -9,10 +9,13 @@ h1 {
   background: linear-gradient(to right, rgb(227, 100, 100), grey, rgb(227, 100, 100));
   overflow: hidden;
   text-align: center;
-  padding: 0px 30px;
   text-decoration: none;
   font-size: 30px;
   color: antiquewhite;
+}
+
+#one, #two, #three {
+  padding: 10px;
 }
 
 .topnav a.active {
